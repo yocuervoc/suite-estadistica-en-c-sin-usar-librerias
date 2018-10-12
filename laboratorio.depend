@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1389253204 source:c:\users\yonatan\documents\programacion\laboratorio\unarray.cpp
+	"unarray.h"
+
+1389253204 c:\users\yonatan\documents\programacion\laboratorio\unarray.h
+	<fstream>
+	<iostream>
+
+1389485003 source:c:\users\yonatan\documents\programacion\laboratorio\unstatistic.cpp
+	"unstatistic.h"
+	"unarray.h"
+
+1389405092 c:\users\yonatan\documents\programacion\laboratorio\unstatistic.h
+	"unarray.h"
+
+1389403677 source:c:\users\yonatan\documents\programacion\laboratorio\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"unstatistic.h"
+	"unarray.h"
+
+1389745406 source:f:\cuervo\google drive\laboratorio\unarray.cpp
+	"unarray.h"
+
+1389745384 f:\cuervo\google drive\laboratorio\unarray.h
+	<fstream>
+	<iostream>
+
+1389990475 source:f:\cuervo\google drive\laboratorio\unstatistic.cpp
+	"unstatistic.h"
+	"unarray.h"
+
+1389975822 f:\cuervo\google drive\laboratorio\unstatistic.h
+	"unarray.h"
+
+1389990475 source:f:\cuervo\google drive\laboratorio\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"unstatistic.h"
+	"unarray.h"
+
+1389990475 source:f:\cuervo\nueva carpeta (4)\laboratorio\unstatistic.cpp
+	"unstatistic.h"
+	"unarray.h"
+
+1389975822 f:\cuervo\nueva carpeta (4)\laboratorio\unstatistic.h
+	"unarray.h"
+
+1390699602 f:\cuervo\nueva carpeta (4)\laboratorio\unarray.h
+	<fstream>
+	<iostream>
+
+1390695836 source:f:\cuervo\nueva carpeta (4)\laboratorio\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"unstatistic.h"
+	"unarray.h"
+	"windows.h"
+
+1390532225 source:f:\cuervo\nueva carpeta (4)\laboratorio\unarray.cpp
+	"unarray.h"
+
+1391028677 source:f:\cuervo\nueva carpeta (4)\laboratorio dos\unarray.cpp
+	"unarray.h"
+	"unstatistic.h"
+
+1390881024 f:\cuervo\nueva carpeta (4)\laboratorio dos\unarray.h
+	<fstream>
+	<iostream>
+
+1390929004 source:f:\cuervo\nueva carpeta (4)\laboratorio dos\unstatistic.cpp
+	"unstatistic.h"
+	"unarray.h"
+
+1389975822 f:\cuervo\nueva carpeta (4)\laboratorio dos\unstatistic.h
+	"unarray.h"
+
+1391028677 source:f:\cuervo\nueva carpeta (4)\laboratorio dos\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"unstatistic.h"
+	"unarray.h"
+	"windows.h"
+
+1390864441 source:f:\cuervo\nueva carpeta (4)\laboratorio dos\print.cpp
+
+1391043598 source:f:\cuervo\nueva carpeta (4)\laboratorio tres\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"unstatistic.h"
+	"unarray.h"
+	"windows.h"
+	"menu.h"
+
+1389975822 f:\cuervo\nueva carpeta (4)\laboratorio tres\unstatistic.h
+	"unarray.h"
+
+1391037900 f:\cuervo\nueva carpeta (4)\laboratorio tres\unarray.h
+	<fstream>
+	<iostream>
+
+1391037900 source:f:\cuervo\nueva carpeta (4)\laboratorio tres\unarray.cpp
+	"unarray.h"
+	"unstatistic.h"
+
+1391037900 source:f:\cuervo\nueva carpeta (4)\laboratorio tres\unstatistic.cpp
+	"unstatistic.h"
+	"unarray.h"
+
+1391041471 f:\cuervo\nueva carpeta (4)\laboratorio tres\menu.h
+	<fstream>
+	<iostream>
+
+1391043524 source:f:\cuervo\nueva carpeta (4)\laboratorio tres\menu.cpp
+	"unarray.h"
+	"unstatistic.h"
+	"menu.h"
+
+1391044217 source:f:\cuervo\nueva carpeta (4)\laboratorio cuatro\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"unstatistic.h"
+	"unarray.h"
+	"windows.h"
+	"menu.h"
+
+1389975822 f:\cuervo\nueva carpeta (4)\laboratorio cuatro\unstatistic.h
+	"unarray.h"
+
+1391037900 f:\cuervo\nueva carpeta (4)\laboratorio cuatro\unarray.h
+	<fstream>
+	<iostream>
+
+1391041471 f:\cuervo\nueva carpeta (4)\laboratorio cuatro\menu.h
+	<fstream>
+	<iostream>
+
+1391103186 source:f:\cuervo\nueva carpeta (4)\laboratorio cuatro\menu.cpp
+	"unarray.h"
+	"unstatistic.h"
+	"menu.h"
+
+1391037900 source:f:\cuervo\nueva carpeta (4)\laboratorio cuatro\unarray.cpp
+	"unarray.h"
+	"unstatistic.h"
+
+1391037900 source:f:\cuervo\nueva carpeta (4)\laboratorio cuatro\unstatistic.cpp
+	"unstatistic.h"
+	"unarray.h"
+
+1391044217 source:f:\cuervo\google drive\laboratorio 5\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"unstatistic.h"
+	"unarray.h"
+	"windows.h"
+	"menu.h"
+
+1389975822 f:\cuervo\google drive\laboratorio 5\unstatistic.h
+	"unarray.h"
+
+1391037900 f:\cuervo\google drive\laboratorio 5\unarray.h
+	<fstream>
+	<iostream>
+
+1391041471 f:\cuervo\google drive\laboratorio 5\menu.h
+	<fstream>
+	<iostream>
+
+1391103708 source:f:\cuervo\google drive\laboratorio 5\menu.cpp
+	"unarray.h"
+	"unstatistic.h"
+	"menu.h"
+
+1391037900 source:f:\cuervo\google drive\laboratorio 5\unarray.cpp
+	"unarray.h"
+	"unstatistic.h"
+
+1391037900 source:f:\cuervo\google drive\laboratorio 5\unstatistic.cpp
+	"unstatistic.h"
+	"unarray.h"
+
